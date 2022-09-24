@@ -11,5 +11,3 @@ def decsep(n):
     x = int(b)
 
     return [a, x]
-
-print(decsep(4.54))
